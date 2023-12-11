@@ -1,0 +1,41 @@
+h1{
+    margin: 0;
+    border-bottom: 1px solid #000;
+}
+.d1{
+    margin: 0;
+    padding-top: 3px;
+    font-weight: 1000;
+    text-align: left;
+    font-size: 20px;
+}
+.d2{
+    margin: 0;
+    text-indent: 40px;
+    font-weight: 500;
+    text-align: left;
+    font-size: 20px;
+}
+.highlight{
+    font-weight: 1000;
+}
+.lightblue{
+    color: rgb(0 , 174, 255);
+}
+.blue{
+    color: blue;
+}
+.d3{
+    margin: 0;
+    padding-top: 5px;
+    text-indent: 40px;
+    text-align: left;
+    font-size: 20px;
+}
+.d4{
+    margin: 0;
+    padding-top: 5px;
+    text-indent: 40px;
+    text-align: left;
+    font-size: 20px;
+}

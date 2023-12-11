@@ -1,0 +1,1 @@
+insert into order_detail(o_id,p_id,od_qty) values (1,1,3),(1,3,7),(1,4,2),(2,1,1),(3,1,8),(2,5,4),(2,3,3)

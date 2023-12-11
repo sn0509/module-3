@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70fd0ae0-e547-47cf-bf06-8f7a462d0564" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lesson 1 Mys SQL/exam1_bt_sql_4.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 1 Mys SQL/exam1_th_sql_1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 1 Mys SQL/exam1_th_sql_2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 1 Mys SQL/exam1_th_sql_3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/attach_facility_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/contract_detail_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/contract_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/customer_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/customer_type_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/division_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/education_degree_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/employee_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/facility_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/facility_type_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/position_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/rent_type_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/role_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/user_role_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_sql_case_study/user_table.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ZF3NrvJiaO7VoUJbGXHWiqrALI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "master",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70fd0ae0-e547-47cf-bf06-8f7a462d0564" name="Changes" comment="" />
+      <created>1702003963072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702003963072</updated>
+      <workItem from="1702003964180" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

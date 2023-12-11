@@ -1,0 +1,1 @@
+insert into product(p_name,p_price) values ('May Giat',3),('Tu Lanh',5),('Dieu Hoa',7),('Quat',1),('Bep Dien',2)

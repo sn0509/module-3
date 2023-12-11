@@ -1,0 +1,1 @@
+insert into customer(c_name,c_age) values ('Minh Quan',10),('Ngoc Oanh',20),('Hong Ha',50);
